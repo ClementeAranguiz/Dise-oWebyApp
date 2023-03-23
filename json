@@ -1,0 +1,37 @@
+[
+  {
+    "nombre": "Primer domingo de octubre",
+    "fecha": "2023-10-01",
+    "comentario": null,
+    "renunciable": 0,
+    "tipo": "domingo"
+  },
+  {
+    "nombre": "Segundo domingo de octubre",
+    "fecha": "2023-10-08",
+    "comentario": null,
+    "renunciable": 0,
+    "tipo": "domingo"
+  },
+  {
+    "nombre": "Tercer domingo de octubre",
+    "fecha": "2023-10-15",
+    "comentario": null,
+    "renunciable": 0,
+    "tipo": "domingo"
+  },
+  {
+    "nombre": "Cuarto domingo de octubre",
+    "fecha": "2023-10-22",
+    "comentario": null,
+    "renunciable": 0,
+    "tipo": "domingo"
+  },
+  {
+    "nombre": "Quinto domingo de octubre",
+    "fecha": "2023-10-29",
+    "comentario": null,
+    "renunciable": 0,
+    "tipo": "domingo"
+  }
+]
